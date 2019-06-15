@@ -7,7 +7,7 @@ The python program is the result of the Programming for Data Science Nanodegree 
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [More information](#more_information)
+* [More information](#more-information)
 
 ## Installation
 Just fork the repository and run the application.
@@ -19,4 +19,7 @@ Gaining experiences with Python programming.
 All rights reserved.
 
 ## More information
-Python project of Programming for Data Science Nanodegree (PDSND) of Udacity
+Python project of Programming for Data Science Nanodegree (PDSND) of Udacity.
+
+## Creator
+[Holger Spernau](https://github.com/holgerspernau)
